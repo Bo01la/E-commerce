@@ -1,5 +1,5 @@
 import { useDispatch, useSelector } from "react-redux";
-import Layout from "../Layouts/Layouts";
+import Layout from ".../layouts/Layouts";
 import CartItem from "../components/CartItem";
 import { useEffect, useState } from "react";
 import { PayPalScriptProvider, PayPalButtons } from "@paypal/react-paypal-js";

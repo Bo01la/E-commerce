@@ -1,4 +1,4 @@
-import Layout from "../Layouts/Layouts"
+import Layout from "../layouts/Layouts"
 import Products from "../components/Products"
 
 const Home =  () => {
